@@ -1,0 +1,13 @@
+flowchart TD
+    A[Inicio] --> B[Jugador crea/modifica skin]
+    B --> C[Editor de Skins]
+    C --> D[Guarda skin en perfil]
+    D --> E[Skin visible en auto actual]
+    E --> F[Jugador puede reportar otra skin]
+    F --> G[Skin entra en revisión manual]
+    G --> H[Veredicto: Original / Influencia / Plagio]
+    H --> I[Jugador cambia de auto]
+    I --> J[Skins anteriores se conservan]
+    J --> K[Economía: colección única por cuenta]
+    K --> L[Prevención de cuentas múltiples]
+    L --> M[Fin]
