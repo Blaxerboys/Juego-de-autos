@@ -51,3 +51,22 @@ Un espacio simple para descubrir lo nuevo y lo que está pegando:
 - Sistema de encargos personalizados entre jugadores.
 - Eventos temáticos con votación comunitaria.
 - Recompensas estéticas por reputación acumulada.
+
+---
+
+## 📱 Plataforma Dual: Teléfono In-Game + App Real
+
+El sistema de reputación y votación también vive fuera del juego:
+
+- 📱 Dentro del juego: acceso desde el teléfono virtual estilo GTA V.
+- 🌐 En la vida real: app complementaria tipo NFS Heat Studio.
+
+Ambas permiten:
+
+- Explorar artistas, obras y tendencias.
+- Bancar 🤙 skins desde cualquier lugar.
+- Hacer encargos personalizados.
+- Compartir obras en redes sociales.
+- Recibir notificaciones de nuevos lanzamientos o encargos completados.
+
+La app real conecta la comunidad artística con el mundo exterior, llevando la estética underground a otro nivel.
