@@ -115,3 +115,13 @@ Cada jugador tiene pocos autos, pero los personaliza profundamente. Cada auto es
 - Motores con rugido único por tipo y mejora
 - Cambios mecánicos afectan sonido
 - Música personalizada vía plataformas de streaming
+---
+
+## 11. ⚙️ Documentación Técnica: Físicas Avanzadas
+
+- [🛞 Neumáticos](docs/neumaticos.md)
+- [⚙️ Diferenciales](docs/diferenciales.md)
+- [🛠️ Suspensión](docs/suspension.md)
+- [🔋 Motor](docs/motor.md)
+- [📊 Telemetría](docs/telemetria.md)
+- [🪂 Aerodinámica](docs/aerodinamica.md)
