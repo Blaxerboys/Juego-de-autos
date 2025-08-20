@@ -84,7 +84,7 @@ Cada jugador tiene pocos autos, pero los personaliza profundamente. Cada auto es
 
 ---
 
-## 7. 🧠 Sistema de Skins (pendiente de desarrollo)
+## 7. 🧠 Sistema de Skins
 
 - Artistas pueden crear diseños únicos
 - Comunidad vota y reconoce trabajos originales
