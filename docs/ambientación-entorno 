@@ -1,2 +1,16 @@
-sistema de sonido:
-incorporar meta sound para UE5
+Ssistema de sonido:
+Incorporar meta sound para UE5.
+
+ambiente:
+sonidos reales de la interacción del clima con el vehículo,
+captar distintas olas con distintos automóviles.
+
+Climas: 
+lluvias: (llovizna, lluvia leve media y fuerte, truenos y relámpagos)
+viento: leve medio y fuerte
+nubes: soleado, con pocas nubes y nublado
+De día y de noche para cada una.
+
+sonidos orgánicos (animales, ríos, arrollos, etc)
+
+sonidos artificiales (motor de autos con (engine simulator angethegreat), sonido de cosas rompiéndose, sonidos del auto(grabar switches, palancas, freno de mano, cambios, parabrisas, encendido, balisas, puertas, cassetera)  Spotify, ytmusic)
