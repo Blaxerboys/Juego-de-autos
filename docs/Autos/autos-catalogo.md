@@ -83,7 +83,15 @@ xt
 legacy (1ra 2da 3ra gen)
 impreza (1ra gen GC8, 22B STi)
 ### Hyundai
+pony (1ra 2da gen)
+grandeur (1ra 2da 3ra gen)
+excel (1ra 2da gen)
+sonata (1ra 2da 3ra 4ta gen)
+accent (1ra 2da gen)
+elentra (j1 j2 j3 xd)
 ### Suzuki
+carry (1ra gen)
+fronte
 ### Kia
 ### Nissan
 ### Datsun
