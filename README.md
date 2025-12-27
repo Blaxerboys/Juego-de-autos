@@ -9,7 +9,7 @@ Project Car RPG MMO
 **Género:** MMO / JRPG / Simulador de conducción  
 **Estilo visual:** Underground agresivo (inspirado en *Night Runners Prologue*)  
 **Plataformas:** PC (teclado/ratón, joystick, volante), posible expansión a consolas  
-**Inspiraciones:** Lost Ark, WoW, Tour de Francia, Cars, simuladores de rally
+**Inspiraciones:** Lost Ark, WoW, Tour de Francia, Cars, simuladores de rally, fr legends
 
 ---
 
