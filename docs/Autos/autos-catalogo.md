@@ -8,6 +8,7 @@ Megan
 twingo
 clio
 kangoo
+safrane
 ### Citroen
 ZX
 C4
@@ -90,6 +91,10 @@ excel (1ra 2da gen)
 sonata (1ra 2da 3ra 4ta gen)
 accent (1ra 2da gen)
 elentra (j1 j2 j3 xd)
+
+
+
+
 ### Suzuki
 carry (1ra gen)
 fronte
@@ -108,3 +113,19 @@ peugeot 504 pickup
 ### mitsubishi
 ### Opel
 vectra
+### lotus
+Lotus Elite (Tipo 75/83)
+elan +2
+cortina mk2
+espirit s1
+### DMC
+DeLorean DMC-12
+
+
+
+
+
+
+
+
+
