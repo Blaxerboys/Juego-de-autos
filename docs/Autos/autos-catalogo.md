@@ -41,6 +41,7 @@ accord (2da 4ta 5ta gen)
 prelude (2da 3ra 4ta gen)
 ### Fiat
 600
+regata
 144
 ### Dodge
 dart 1950
