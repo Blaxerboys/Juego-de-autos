@@ -92,35 +92,31 @@
 - sonata (1ra 2da 3ra 4ta gen)
 - accent (1ra 2da gen)
 - elentra (j1 j2 j3 xd)
-
-
-
-
 ### Suzuki
-carry (1ra gen)
-fronte
+- carry (1ra gen)
+- fronte
 ### Kia
 ### Nissan
 ### Datsun
 ### Lexus
 ### Peugeot
-405
-406
-309 gti
-peugeot 504 pickup
+- 405
+- 406
+- 309 gti
+- peugeot 504 pickup
 ### mazda
 ### subaru
 ### Mercedes Benz
 ### mitsubishi
 ### Opel
-vectra
+- vectra
 ### lotus
-Lotus Elite (Tipo 75/83)
-elan +2
-cortina mk2
-espirit s1
+- Lotus Elite (Tipo 75/83)
+- elan +2
+- cortina mk2
+- espirit s1
 ### DMC
-DeLorean DMC-12
+-  DeLorean DMC-12
 
 
 
