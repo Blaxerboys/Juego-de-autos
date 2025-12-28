@@ -9,6 +9,7 @@
 - clio
 - kangoo
 - safrane
+- laguna
 ### Citroen
 - ZX
 - C4
