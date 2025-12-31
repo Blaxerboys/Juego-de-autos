@@ -46,6 +46,7 @@
 - regata
 - 144
 ### Dodge
+- 1500
 - dart 1950
 - polara
 - challenger (1970, x 1981, 2008)
@@ -61,6 +62,7 @@
 - gol (1ra 2da gen)
 - golf (1ra 2da 3ra gen)
 - country
+- senda
 ### BMW
 - serie 5 (2ra gen e34)
 - serie 3 (1ra gen e30 e36 e45)
