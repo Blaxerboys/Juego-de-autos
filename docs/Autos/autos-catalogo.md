@@ -106,7 +106,8 @@
 - 405
 - 406
 - 309 gti
-- peugeot 504 pickup
+- 504 pickup
+- 504
 ### mazda
 ### subaru
 ### Mercedes Benz
