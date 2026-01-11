@@ -52,6 +52,7 @@
 - regata
 - 144
 - 128
+- multicarga
 ### Dodge
 - 1500
 - dart 1950
