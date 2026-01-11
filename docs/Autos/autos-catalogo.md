@@ -27,7 +27,12 @@
 - Impala SS 1990
 - Chevy ss coupe serie 2
 - Corsa
-- vectra 
+- vectra
+- 250 super
+- C10
+- d20
+- braba
+- apache
 ### Ford
 - courier
 - mustang (1ra y 3ra gen)
