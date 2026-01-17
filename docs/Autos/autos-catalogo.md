@@ -118,6 +118,7 @@
 ### mazda
 familia (5ta 7ma 8va 9na gen)
 cosmo sport (2da 3ra 4ta gen)
+capella (1ra 2da 3ra 4ta gen)
 ### subaru
 ### Mercedes Benz
 ### mitsubishi
