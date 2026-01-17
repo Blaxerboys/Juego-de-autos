@@ -120,7 +120,7 @@
 - cosmo sport (2da 3ra 4ta gen)
 - capella (1ra 2da 3ra 4ta gen)
 - rx3
-- 
+- rx7 (1ra 2da 3ra gen)
 ### subaru
 ### Mercedes Benz
 ### mitsubishi
