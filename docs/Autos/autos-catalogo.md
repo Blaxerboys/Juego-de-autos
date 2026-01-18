@@ -49,7 +49,7 @@
 - prelude (2da 3ra 4ta gen)
 ### Fiat
 - 600
-- regata
+- regatta-sc
 - 144
 - 128
 - multicarga
