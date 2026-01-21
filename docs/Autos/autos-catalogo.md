@@ -51,7 +51,7 @@
 - 600
 - regatta-sc
 - 144
-- 128
+- 128 (super europa)
 - multicarga
 ### Dodge
 - 1500
