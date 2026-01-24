@@ -2,6 +2,7 @@
 ### Renault
 - 11 tubo
 - 12
+- 18 tx
 - 19 (sedan y hatchback)
 - 21
 - Megan
