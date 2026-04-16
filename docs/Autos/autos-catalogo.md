@@ -48,6 +48,7 @@
 - civic (2da 5ta gen)
 - accord (2da 4ta 5ta gen)
 - prelude (2da 3ra 4ta gen)
+- legend (1ra 2da gen)
 ### Fiat
 - 600
 - regatta-sc
