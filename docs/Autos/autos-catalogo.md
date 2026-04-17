@@ -126,6 +126,9 @@
 ### subaru
 ### Mercedes Benz
 ### mitsubishi
+- eclipse (todas las gen)
+- 3000 gt (todas las gen)
+- lancer (3ra 4ta 5ta 8va gen)
 ### Opel
 - vectra
 ### lotus
