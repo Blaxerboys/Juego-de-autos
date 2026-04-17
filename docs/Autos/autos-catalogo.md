@@ -129,6 +129,9 @@
 - eclipse (todas las gen)
 - 3000 gt (todas las gen)
 - lancer (3ra 4ta 5ta 8va gen)
+- lancer Evo (todas las gen)
+- L200 (2da gen)
+
 ### Opel
 - vectra
 ### lotus
