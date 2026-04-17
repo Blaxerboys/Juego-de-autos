@@ -131,6 +131,7 @@
 - lancer (3ra 4ta 5ta 8va gen)
 - lancer Evo (todas las gen)
 - L200 (2da gen)
+- galant (4ta 5ta 6ta 7ma 8va gen)
 
 ### Opel
 - vectra
