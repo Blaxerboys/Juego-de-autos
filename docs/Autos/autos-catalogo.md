@@ -19,7 +19,7 @@
 - Corolla 1994
 - hylux 1988
 - Celica gen 5 1990 (ae 86)
-- supra 1993
+- supra (1ra 2da 3ra 4ta gen)
 - MR2 primera gen
 - Camry V20 1986
 - GT 86 primera gen
