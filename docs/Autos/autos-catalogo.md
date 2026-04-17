@@ -125,6 +125,10 @@
 - rx7 (1ra 2da 3ra gen)
 ### subaru
 ### Mercedes Benz
+- w124
+- w211
+- r129
+- sl73 amg
 ### mitsubishi
 - eclipse (todas las gen)
 - 3000 gt (todas las gen)
