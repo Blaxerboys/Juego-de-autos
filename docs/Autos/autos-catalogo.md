@@ -37,13 +37,15 @@
 ### Ford
 - courier
 - mustang (1ra y 3ra gen)
-- escort
+- mustang giha
+- escort rx3
 - fiesta  (1ra y 4ta gen)
 - focus rs.1
 - sierra
 - probe (2da gen)
 - pampa
 - taunus glx
+- ranchero
 ### Honda
 - integra type r
 - civic (2da 5ta gen)
@@ -56,6 +58,7 @@
 - 144
 - 128 (super europa)
 - multicarga
+- 125 cl
 ### Dodge
 - 1500
 - dart 1950
@@ -105,11 +108,14 @@
 - sonata (1ra 2da 3ra 4ta gen)
 - accent (1ra 2da gen)
 - elentra (j1 j2 j3 xd)
+- genesis
 ### Suzuki
 - carry (1ra gen)
 - fronte
 ### Kia
 ### Nissan
+- blue bird
+- 
 ### Datsun
 ### Lexus
 ### Peugeot
@@ -153,7 +159,8 @@
 - espirit s1
 ### DMC
 -  DeLorean DMC-12
-
+### Acura
+- Legend coupe L
 
 
 
