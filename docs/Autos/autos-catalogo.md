@@ -43,6 +43,7 @@
 - sierra
 - probe (2da gen)
 - pampa
+- taunus glx
 ### Honda
 - integra type r
 - civic (2da 5ta gen)
@@ -141,7 +142,7 @@
 - lancer Evo (todas las gen)
 - L200 (2da gen)
 - galant (4ta 5ta 6ta 7ma 8va gen)
-
+- scorpion
 ### Opel
 - vectra
 ### lotus
