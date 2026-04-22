@@ -124,6 +124,7 @@
 - capella (1ra 2da 3ra 4ta gen)
 - rx3
 - rx7 (1ra 2da 3ra gen)
+- 323 gtx turbo
 ### Subaru
 - impreza 22b sti
 - impreza wrx sti (1ra 2da gen)
