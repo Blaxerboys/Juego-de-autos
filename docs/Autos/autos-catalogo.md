@@ -77,6 +77,7 @@
 - golf (1ra 2da 3ra gen)
 - country
 - senda
+- gacel
 ### BMW
 - serie 5 (2ra gen e34)
 - serie 3 (1ra gen e30 e36 e45)
@@ -134,6 +135,7 @@
 ### Subaru
 - impreza 22b sti
 - impreza wrx sti (1ra 2da gen)
+- subaru impreza gc8
 - sambar (3ra gen)
 - leone
 - svx
