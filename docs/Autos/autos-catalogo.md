@@ -46,6 +46,7 @@
 - pampa
 - taunus glx
 - ranchero
+- orión 104 glx
 ### Honda
 - integra type r
 - civic (2da 5ta gen)
