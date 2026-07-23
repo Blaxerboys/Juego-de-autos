@@ -34,6 +34,7 @@
 - d20
 - braba
 - apache
+- cavalier (2da gen)
 ### Ford
 - courier
 - mustang (1ra y 3ra gen)
