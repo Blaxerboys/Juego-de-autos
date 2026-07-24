@@ -44,6 +44,7 @@
 - focus rs.1
 - sierra
 - probe (2da gen)
+- probe gt
 - pampa
 - taunus glx
 - ranchero
