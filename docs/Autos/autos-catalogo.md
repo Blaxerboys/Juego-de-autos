@@ -81,6 +81,7 @@
 - country
 - senda
 - gacel
+- voyage
 ### BMW
 - serie 5 (2ra gen e34)
 - serie 3 (1ra gen e30 e36 e45)
