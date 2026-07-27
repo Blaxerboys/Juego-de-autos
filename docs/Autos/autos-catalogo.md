@@ -147,6 +147,7 @@
 - w211
 - r129
 - sl73 amg
+- 190d w201
 ### Mitsubishi
 - eclipse (todas las gen)
 - 3000 gt (todas las gen)
