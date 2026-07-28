@@ -23,6 +23,7 @@
 - MR2 primera gen
 - Camry V20 1986
 - GT 86 primera gen
+- chaser jzx 100
 ### Chevrolet
 - Camaro 1966
 - Impala SS 1990
