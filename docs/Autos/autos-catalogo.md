@@ -121,9 +121,26 @@
 - fronte
 ### Kia
 ### Nissan
-- blue bird
-- 
+- blue bird (910 u11 u12 u13 u14)
+- cedric (130 special 6 430 )
+- frontier d21
+- sentra (b11 b12 b13 b14 b15)
+- patrol (160)
+- skyline (c10 2000gt c110 1800gl gt-r r30 2000gts-r r32 gt-r r34 gt-r )
+- price skyline (2000GT-A)
+- silvia (todos)
+- sunny (b120 b211)
+- fairlady z (todos)
+- leopard (todos)
+- cefiro (a31 a32)
+- stagea (wc34)
+- r35 gt-r (todos)
+- stanza (t12 u12)
+- maxima
+- 240sx
+- 300zx
 ### Datsun
+- 510 
 ### Lexus
 ### Peugeot
 - 405
