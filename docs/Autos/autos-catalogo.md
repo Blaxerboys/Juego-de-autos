@@ -65,6 +65,7 @@
 - 128 (super europa)
 - multicarga
 - 125 cl
+- uno
 ### Dodge
 - 1500
 - dart 1950
