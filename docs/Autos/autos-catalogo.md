@@ -12,6 +12,7 @@
 - safrane
 - laguna
 - 9 ste '88
+- Torino zx
 ### Citroen
 - ZX
 - C4
