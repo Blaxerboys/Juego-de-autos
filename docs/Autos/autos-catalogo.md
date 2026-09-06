@@ -190,9 +190,6 @@
 ### Acura
 - Legend coupe L
 ### Chrysler
-
-
-
-
-
-
+### Infiniti
+### TVR T400R
+### Jaguar
