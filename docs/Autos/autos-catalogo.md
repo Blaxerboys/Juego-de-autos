@@ -74,6 +74,7 @@
 - aries
 - intrepid (1ra 2da gen)
 - charger (1969, 1987)
+- viper (1ra gen)
 ### VolksWagen
 - escarabajo bocho
 - passat (1ra 4ta gen)
